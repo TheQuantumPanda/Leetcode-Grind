@@ -41,7 +41,7 @@
 
 ## 📈 Analytics
 
-<div align= "center">
+<div align="center">
 <table>
 <tr>
 
@@ -53,7 +53,7 @@
 
 </td>
 
-<td width="50%" align="left" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📊 LeetCode Coverage
 
@@ -61,7 +61,7 @@
 
 **🟡 Medium — 16/2074 (0.77%)**  
 
-**🔴 Hard — 0/948 (0.0%)**  
+**🔴 Hard — 0/948 (0.0%)**
 
 </td>
 
@@ -72,8 +72,8 @@
 ## 🔥 Streak Stats
 
 **Current Streak:** 🔥 41 days  
-**Max Streak:** 🏆 41 days
+**Max Streak:** 🏆 41 days  
 
-## 🕒 Recent Solution
+## 🕒 Last 5 Problems
 
-**ZigZag Conversion**
+
