@@ -52,11 +52,18 @@
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="left" valign="top">
 
-### 📊 LeetCode Coverage %
+### 📊 LeetCode Coverage
 
-<img width="400" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%22%2C%20%22Medium%22%2C%20%22Hard%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22LeetCode%20Progress%20%25%22%2C%20%22data%22%3A%20%5B3.36%2C%200.77%2C%200.0%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ecc71%22%2C%20%22%23f1c40f%22%2C%20%22%23e74c3c%22%5D%7D%5D%7D%7D" />
+**🟢 Easy — 32/951 (3.36%)**  
+<pre>░░░░░░░░░░░░░░░░░░░░</pre>
+
+**🟡 Medium — 16/2074 (0.77%)**  
+<pre>░░░░░░░░░░░░░░░░░░░░</pre>
+
+**🔴 Hard — 0/948 (0.0%)**  
+<pre>░░░░░░░░░░░░░░░░░░░░</pre>
 
 </td>
 
