@@ -77,6 +77,7 @@ template = """
 
 ## 📈 Analytics
 
+<div align= "center">
 <table>
 <tr>
 
@@ -102,6 +103,7 @@ template = """
 
 </tr>
 </table>
+</div>
 """
 
 readme = template.format(
