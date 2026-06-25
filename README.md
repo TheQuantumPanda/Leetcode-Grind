@@ -41,4 +41,4 @@
 
 ## 📈 Solved Distribution
 
-<img width="300" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%22%2C%20%22Medium%22%2C%20%22Hard%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B32%2C%2016%2C%200%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ecc71%22%2C%20%22%23f1c40f%22%2C%20%22%23e74c3c%22%5D%7D%5D%7D%7D" />
+<img width="300" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%22%2C%20%22Medium%22%2C%20%22Hard%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B32%2C%2016%2C%200%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ecc71%22%2C%20%22%23f1c40f%22%2C%20%22%23e74c3c%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22labels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%7D%7D%2C%20%22tooltip%22%3A%20%7B%22titleColor%22%3A%20%22%23ffffff%22%2C%20%22bodyColor%22%3A%20%22%23ffffff%22%7D%7D%7D%7D" />
