@@ -111,10 +111,6 @@ readme = template.format(
     hard=hard,
     chart_url=chart_url,
 
-    easy_bar=easy_bar,
-    medium_bar=medium_bar,
-    hard_bar=hard_bar,
-
     easy_total=leetcode_totals["easy"],
     medium_total=leetcode_totals["medium"],
     hard_total=leetcode_totals["hard"],
@@ -123,7 +119,6 @@ readme = template.format(
     medium_pct=progress["medium"],
     hard_pct=progress["hard"]
 )
-
 with open("README.md", "w") as f:
     f.write(readme)
 
