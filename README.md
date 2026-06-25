@@ -68,3 +68,12 @@
 </tr>
 </table>
 </div>
+
+## 🔥 Streak Stats
+
+**Current Streak:** 🔥 41 days  
+**Max Streak:** 🏆 41 days
+
+## 🕒 Recent Solution
+
+**ZigZag Conversion**
