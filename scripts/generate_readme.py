@@ -123,6 +123,9 @@ readme = template.format(
     easy=easy,
     medium=medium,
     hard=hard,
+    streak=streak
+    max_streak=max_streak
+    last_solved=last_solved
     chart_url=chart_url,
 
     easy_total=leetcode_totals["easy"],
