@@ -12,25 +12,10 @@ total = stats["total"]
 chart = {
     "type": "pie",
     "data": {
-        "labels": ["Easy", "Medium", "Hard"],
         "datasets": [{
             "data": [easy, medium, hard],
             "backgroundColor": ["#2ecc71", "#f1c40f", "#e74c3c"]
         }]
-    },
-    "options": {
-        "plugins": {
-            "legend": {
-                "labels": {
-                    "color": "#ffffff"
-                }
-            },
-            "tooltip": {
-                "titleColor": "#ffffff",
-                "bodyColor": "#ffffff"
-            },
-            "color": "#ffffff"
-        }
     }
 }
 
