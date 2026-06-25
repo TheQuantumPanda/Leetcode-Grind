@@ -38,7 +38,7 @@ chart = {
 
 chart_url = "https://quickchart.io/chart?c=" + urllib.parse.quote(json.dumps(chart))
 
-def get_last_problems(n=20):
+def get_last_problems(n=200):
     result = subprocess.check_output(
         ["git", "log", "-n", str(n), "--pretty=format:%s"]
     ).decode("utf-8")
