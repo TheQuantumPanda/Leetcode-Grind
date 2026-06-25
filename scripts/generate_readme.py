@@ -28,6 +28,7 @@ chart = {
             "tooltip": {
                 "titleColor": "#ffffff",
                 "bodyColor": "#ffffff"
+            }
         }
     }
 }
