@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>52 Problems Solved</b>
+  <b>53 Problems Solved</b>
 </p>
 
 ## 📊 Dashboard
@@ -17,12 +17,12 @@
 <tr>
 <td align="center">
 <h3>🎯 Total</h3>
-<b>52</b>
+<b>53</b>
 </td>
 
 <td align="center">
 <h3>🟢 Easy</h3>
-<b>32</b>
+<b>33</b>
 </td>
 
 <td align="center">
@@ -47,7 +47,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<img width="300" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%22%2C%20%22Medium%22%2C%20%22Hard%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B32%2C%2019%2C%201%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ecc71%22%2C%20%22%23f1c40f%22%2C%20%22%23e74c3c%22%5D%7D%5D%7D%7D" />
+<img width="300" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%22%2C%20%22Medium%22%2C%20%22Hard%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B33%2C%2019%2C%201%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ecc71%22%2C%20%22%23f1c40f%22%2C%20%22%23e74c3c%22%5D%7D%5D%7D%7D" />
 
 </td>
 
@@ -55,7 +55,7 @@
 
 ### 📊 LeetCode Coverage
 
-**🟢 Easy — 32/951 (3.36%)**  
+**🟢 Easy — 33/951 (3.47%)**  
 
 **🟡 Medium — 19/2074 (0.92%)**  
 
@@ -69,8 +69,8 @@
 
 ## 🔥 Streak Stats
 
-**Current Streak:** 🔥 45 days  
-**Max Streak:** 🏆 45 days  
+**Current Streak:** 🔥 46 days  
+**Max Streak:** 🏆 46 days  
 
 ## 🕒 Last 5 Problems
 
