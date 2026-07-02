@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- 3 Sum
 - Integer to Roman
 - Number of Substrings Containing All Three Characters
 - Number of Strings That Appear as Substrings in Word
 - Maximum Element After Decreasing and Rearranging
-- String to Integer (atoi)
