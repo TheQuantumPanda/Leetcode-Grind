@@ -1,9 +1,9 @@
 {
-  "total": 56,
+  "total": 57,
   "easy": 33,
-  "medium": 22,
+  "medium": 23,
   "hard": 1,
-  "streak": 49,
-  "max_streak": 49,
+  "streak": 50,
+  "max_streak": 50,
   "last_solved": "Median of Two Sorted Arrays"
 }
