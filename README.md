@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- Letter Combinations of a Phone Number
 - 3 Sum Closest
 - 3 Sum
 - Integer to Roman
 - Number of Substrings Containing All Three Characters
-- Number of Strings That Appear as Substrings in Word
