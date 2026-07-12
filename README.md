@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- Rank Transform of an Array
 - Next Permutation
 - Divide Two Integers
 - Concatenate Non-Zero Digits and Multiply by Sum II
 - Generate Parentheses
-- 4Sum
