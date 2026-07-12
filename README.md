@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- Search in Rotated Sorted Array
 - Rank Transform of an Array
 - Next Permutation
 - Divide Two Integers
 - Concatenate Non-Zero Digits and Multiply by Sum II
-- Generate Parentheses
