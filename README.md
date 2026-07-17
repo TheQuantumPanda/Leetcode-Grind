@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- Count and Say
 - Sum of GCD of Formed Pairs
 - GCD of Odd and Even Sums
 - Valid Sudoku
 - Find First and Last Position of Element in Sorted Array
-- Search in Rotated Sorted Array
