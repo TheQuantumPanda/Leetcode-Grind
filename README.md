@@ -74,8 +74,8 @@
 
 ## 🕒 Last 5 Problems
 
+- Jump Game II
 - Combination Sum II
 - Combination Sum
 - Maximize Active Section with Trade I
 - Shift 2D Grid
-- Multiply Strings
